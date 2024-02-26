@@ -11,6 +11,7 @@ public class Persona {
 
     /**
      * Crea una nueva <b>Persona</b> con la edad especificada.
+     * 
      * @param edad la edad de la persona en años
      */
     public Persona(int edad) {
@@ -18,11 +19,16 @@ public class Persona {
     }
 
     /**
-     * <p>Calcula los años hasta la jubilación y muestra un mensaje en la consola.</p>
+     * <p>
+     * Calcula los años hasta la jubilación y muestra un mensaje en la consola.
+     * </p>
      * <ul>
-     * <li>Si los años hasta la jubilación son menos de 10, muestra un mensaje de aliento.</li>
-     * <li>Si los años hasta la jubilación son más de 20, muestra un mensaje de ánimo para seguir trabajando.</li>
-     * <li>Si los años hasta la jubilación están entre 10 y 20, simplemente muestra cuántos años quedan hasta la jubilación.</li>
+     * <li>Si los años hasta la jubilación son menos de 10, muestra un mensaje de
+     * aliento.</li>
+     * <li>Si los años hasta la jubilación son más de 20, muestra un mensaje de
+     * ánimo para seguir trabajando.</li>
+     * <li>Si los años hasta la jubilación están entre 10 y 20, simplemente muestra
+     * cuántos años quedan hasta la jubilación.</li>
      * </ul>
      */
     public void calcularAnosHastaJubilacion() {
