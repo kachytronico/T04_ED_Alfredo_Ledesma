@@ -1,5 +1,5 @@
 /**
- * <h1>Persona</h1>
+ * <b>Persona</b>
  * La clase <b>Persona</b> representa a una persona con una edad determinada.
  * Proporciona un método para calcular los años hasta la jubilación.
  */

@@ -2,10 +2,10 @@
 import java.util.Scanner;
 
 /**
- * <h1>Main</h1>
+ * <b>Main</b>
  * La clase <b>Main</b> contiene el método principal del programa.
  * Pide al usuario su edad, crea una Persona con esa edad y calcula los años hasta la jubilación.
- * @autor Alfredo Ledesma
+ * @author Alfredo Ledesma
  * @version 1.0
  * @since 20224-26-02
  */
